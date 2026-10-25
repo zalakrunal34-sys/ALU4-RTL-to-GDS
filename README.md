@@ -24,4 +24,4 @@ A 4-bit Arithmetic Logic Unit (ALU) designed using Verilog and processed through
 - 6_final.odb: Final OpenROAD database
 
 ## Author
-Kinchit Kareliya
+Krunal Zala
